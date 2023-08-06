@@ -25,5 +25,5 @@ I am Junior Frontend Developer.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/katerina-shche" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://t.me/katerina-shchek" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /></a>
+<a href="https://t.me/katerina_shchek" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /></a>
 </p>
