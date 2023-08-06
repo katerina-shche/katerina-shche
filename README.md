@@ -4,7 +4,7 @@ Hi 👋 My name is Kate!
 I am Junior Frontend Developer.
 
 * 🌍  I'm based in Belgrade, Serbia
-* ✉️  You can contact me via email at [asti.katerina@gmail.com](mailto:asti.katerina@gmail.com) or on [telegram](t.me/katerina_shchek)
+* ✉️  You can contact me via email at [asti.katerina@gmail.com](mailto:asti.katerina@gmail.com)
 
 ### Skills
 
