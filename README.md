@@ -3,7 +3,9 @@ Hi 👋 My name is Kate!
 
 I am Junior Frontend Developer.
 
-* 🌍  I'm based in Belgrade, Serbia
+* 🌍  Based in Belgrade, Serbia
+* 🎓  FreeCodeCamp gradaute 
+* 📚  Constantly learning and building
 * ✉️  You can contact me via email at [asti.katerina@gmail.com](mailto:asti.katerina@gmail.com)
 
 ### Skills
@@ -22,4 +24,6 @@ I am Junior Frontend Developer.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/katerina-shche" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/katerina-shche" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="t.me/katerina-shchek" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /></a>
+</p>
