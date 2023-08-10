@@ -3,7 +3,6 @@ Hi 👋 My name is Kate!
 
 I am Junior Frontend Developer.
 
-* 🌍  Based in Belgrade, Serbia
 * 🎓  FreeCodeCamp gradaute 
 * 📚  Constantly learning and building
 * ✉️  You can contact me via email at [asti.katerina@gmail.com](mailto:asti.katerina@gmail.com)
