@@ -1,7 +1,7 @@
 Hi 👋 My name is Kate!
 ======================
 
-I am Junior Frontend Developer.
+I am Frontend Developer.
 
 * 🎓  FreeCodeCamp gradaute 
 * 📚  Constantly learning and building
